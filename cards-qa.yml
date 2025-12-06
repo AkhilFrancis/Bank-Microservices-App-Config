@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to akhilfrancis cards related QA v2 test APIs "
+  message: "Welcome to akhilfrancis cards related QA v3 test APIs "
   contactDetails:
     name: "Akhil Francis - QA"
     email: "akhilfrancis"
