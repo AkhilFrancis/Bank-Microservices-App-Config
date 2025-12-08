@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to akhilfrancis cards related QA v6 actuator test APIs "
+  message: "Welcome to akhilfrancis cards related QA v7 spring cloud bus test APIs "
   contactDetails:
     name: "Akhil Francis - QA"
     email: "{cipher}ce5060b4b2cdae43b801a0a489ed7e206ebe4b06854ae1a195f1cbfb02a7c9253331ba8633a68314c72461fde18537fb"
