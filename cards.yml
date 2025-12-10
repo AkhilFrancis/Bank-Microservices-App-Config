@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to akhilfrancis cards related local APIs "
+  message: "Welcome to akhilfrancis cards related docker test config APIs "
   contactDetails:
     name: "Akhil Francis - Developer"
     email: "akhilfrancis"
